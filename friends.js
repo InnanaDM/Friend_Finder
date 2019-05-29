@@ -1,4 +1,5 @@
 var friends = [{
+    
     "name": "Haile",
     "photo": 'https://i.ytimg.com/vi/Ce7hJ24a8yM/maxresdefault.jpghttp://adst.org/wp-content/uploads/2015/10/haile_selassie_interview_with_editor_of_the_voice_of_ethiopia_april_05_1948_-e1444415349633.jpg',
     "scores": [
